@@ -1,6 +1,7 @@
 # hello-world
-This is a test/first repository
+This is my first repository
 
-Hi who may not know me at all,
+Hi there,
 
-I am a PhD student studying Civil Eeng. Being in Hong Kong, Canada, US, China, I like Hong Kong and Shanghai the best.
+I am a Master student studying Electrical and Computer Eng.
+If I can be anywhere in the world now, I'd like to visit Hong Kong and Shanghai.
